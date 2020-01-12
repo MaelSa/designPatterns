@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52398335-eb78-46dc-963e-5a931e7c1df3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/Composite.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/Observer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/State.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/Visitor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/TestCompositePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/ObserverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/View1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/View2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/View3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/TVContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/TVRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/TVRemoteBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/TVStartState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern/TVStopState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/PostageVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faces_gan_test/testLoadNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Faces_gan_test/testLoadNN.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WI4bpGtjSJgGWa9OfsPivBkltA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52398335-eb78-46dc-963e-5a931e7c1df3" name="Default Changelist" comment="" />
+      <created>1578823848518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578823848518</updated>
+      <workItem from="1578823851946" duration="3226000" />
+      <workItem from="1578827954574" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
