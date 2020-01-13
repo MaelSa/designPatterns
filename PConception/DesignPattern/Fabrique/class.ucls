@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="DesignPattern.Fabrique.Batman" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Batman.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="141" x="682" y="425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="DesignPattern.Fabrique.Superman" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Superman.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="141" x="863" y="425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="DesignPattern.Fabrique.Combat" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Combat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="105" width="141" x="698" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="DesignPattern.Fabrique.SupermanVsCryptonMan" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/SupermanVsCryptonMan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="312" x="265" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="DesignPattern.Fabrique.FacoryBatmanVsJoker" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/FacoryBatmanVsJoker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="224" x="1225" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="DesignPattern.Fabrique.BatmanVsJoker" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/BatmanVsJoker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="206" x="617" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="DesignPattern.Fabrique.CryptonMan" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/CryptonMan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="141" x="1044" y="425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="DesignPattern.Fabrique.Gentil" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Gentil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="141" x="863" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="DesignPattern.Fabrique.Joker" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Joker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="141" x="1225" y="425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="DesignPattern.Fabrique.AbstactFactory" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/AbstactFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="105" width="178" x="1357" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="DesignPattern.Fabrique.FactorySupermanVsCryptonMan" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/FactorySupermanVsCryptonMan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="277" x="1489" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="DesignPattern.Fabrique.Mechant" project="TP1" 
+    file="/TP1/src/DesignPattern/Fabrique/Mechant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="141" x="1044" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="13">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="14" name="m"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="22" name="g"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
