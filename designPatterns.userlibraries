@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name=".mylyn">
+    <archive path="/home/mael/Documents/Polytech/designPatterns/PConception/DesignPattern/.metadata/.mylyn/tasks.xml.zip" />
+    <archive path="/home/mael/Documents/Polytech/designPatterns/PConception/DesignPattern/.metadata/.mylyn/repositories.xml.zip" />
+  </library>
+</eclipse-userlibraries>
+
