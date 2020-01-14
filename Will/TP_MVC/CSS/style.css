@@ -1,0 +1,87 @@
+textArea {
+    width : 80px;
+    height : 20px;
+}
+div {
+    text-align: center;
+}
+
+button {
+    width : 100px;
+    display : inline-block;
+    border-radius : 12px;
+    margin-left : 5px;
+    color : black;
+    border : 1px solid black;
+    font-weight: bold;
+}
+
+#menu {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color: #333333;
+	display: flex;
+}
+.subMenu {
+	position: relative;
+	width: 100px;
+	height: 40px;
+	padding: 0px;
+	border-right: 1px solid #CCCCCC;
+	text-align: center;
+	cursor: pointer;
+}
+
+.subMenu:hover{
+	background-color: #3388BB;
+}
+
+.subMenu a{
+	position: absolute;
+	text-decoration: none;
+	color: #FFFFFF;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-user-select: none; /* Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+/Edge */
+user-select: none; /* Standard */
+}
+
+/* Info-bulle */ 
+.infobulle { 
+  text-decoration:none; 
+  position:relative; 
+} 
+.infobulle span { 
+  display:none; 
+  -moz-border-radius:6px; 
+  -webkit-border-radius:6px; 
+  border-radius:6px; 
+  color:black; 
+  background-color: #eff1f3; 
+  font-size:10px; 
+  font-style:italic; 
+} 
+.infobulle span img { 
+  float:left; 
+  margin:0px 8px 8px 0; 
+} 
+.infobulle:hover span 
+{ 
+  display:block; 
+  position:absolute; 
+  top:0; 
+  left:0; 
+  z-index:1000; 
+  width:250px; 
+  /* max-width:200px; */ 
+  min-height:20px; 
+  border:1px solid black; 
+  margin-top:12px; 
+  margin-left:32px; 
+  overflow:hidden; 
+  padding:8px; 
+}
